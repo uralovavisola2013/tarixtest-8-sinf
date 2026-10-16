@@ -3,11 +3,11 @@
 //
 // {
 //   fan: "O'zbekiston tarixi",      // yoki "Jahon tarixi"
-//   mavzu: "1-mavzu: Mavzu nomi",   // bir xil mavzuga bir xil yozing
-//   savol: "Savol matni?",
-//   variantlar: ["A variant", "B variant", "C variant", "D variant"],
-//   javob: 0,                       // to'g'ri javob raqami: 0=A, 1=B, 2=C, 3=D
-//   izoh: "Ixtiyoriy qisqa izoh"    // kerak bo'lmasa "" qoldiring
+//   mavzu: "1-mavzu: XIII asr boshlarida Xorazm davlatida siyosiy vaziyat",   // bir xil mavzuga bir xil yozing
+//   savol: "Sulton Muhammad Xorazmshoh qaysi sulola vakili boʻlgan?",
+//   variantlar: ["A Afrigʻiylar", "B  Oltintoshiylar", "C Ma'muniylar", "D Anushteginiylar"],
+//   javob: D,                       // to'g'ri javob raqami: 0=A, 1=B, 2=C, 3=D
+//   izoh: " 1017-yil Anushteginiylar sulolasiga Alouddin Muhammad otasi Takash asos soladi"    // kerak bo'lmasa "" qoldiring
 // },
 //
 // DIQQAT: quyidagilar faqat NAMUNA. Ularni o'chirib, darslikdagi mavzularga
