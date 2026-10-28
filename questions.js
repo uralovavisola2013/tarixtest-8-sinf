@@ -6,30 +6,27 @@
 //   mavzu: "1-mavzu: XIII asr boshlarida Xorazm davlatida siyosiy vaziyat",   // bir xil mavzuga bir xil yozing
 //   savol: "Sulton Muhammad Xorazmshoh qaysi sulola vakili boʻlgan?",
 //   variantlar: ["A Afrigʻiylar", "B  Oltintoshiylar", "C Ma'muniylar", "D Anushteginiylar"],
-//   javob: D,                       // to'g'ri javob raqami: 0=A, 1=B, 2=C, 3=D
+//   javob: 3,                       // to'g'ri javob raqami: 0=A, 1=B, 2=C, 3=D
 //   izoh: " 1017-yil Anushteginiylar sulolasiga Alouddin Muhammad otasi Takash asos soladi"    // kerak bo'lmasa "" qoldiring
 // },
 //
 // DIQQAT: quyidagilar faqat NAMUNA. Ularni o'chirib, darslikdagi mavzularga
-// mos o'z savollaringizni yozing.
-
-const QUESTIONS = [
-  // ---------- O'zbekiston tarixi ----------
+// 
   {
     fan: "O'zbekiston tarixi",
-    mavzu: "Namuna mavzu: Amir Temur davlati",
-    savol: "Amir Temur qaysi yilda tug'ilgan?",
-    variantlar: ["1336", "1370", "1405", "1220"],
-    javob: 0,
-    izoh: "Amir Temur 1336-yilda Kesh (Shahrisabz) yaqinida tug'ilgan."
+    mavzu: "XIII asr boshlarida Xorazm davlatida siyosiy test",
+    savol: "Alouddin Muhammad nechanchi yili Movorounnahda kimlar boshqaruviga chek qoʻydi?",
+    variantlar: ["1216-yil Qoraxoniylar", "1212-yil Ahamoniylar", "1212-yil Qoraxoniylar", "1217-yil Saljuqiylar"],
+    javob: 2,
+    izoh: "Alouddin Muhammad 1212-yili Qoraxoniylarni haydab chiqaradi"
   },
   {
     fan: "O'zbekiston tarixi",
-    mavzu: "Namuna mavzu: Amir Temur davlati",
-    savol: "Amir Temur davlatining poytaxti qaysi shahar edi?",
-    variantlar: ["Buxoro", "Samarqand", "Xiva", "Toshkent"],
+    mavzu: "Namuna mavzu: XIII asr boshlarida Xorazm davlatida siyosiy vaziyat",
+    savol: "Muhammad Xorazmshoh 1212-yil qaysi huduflarni egallaydi",
+    variantlar: ["Kirmon,Bomiyon", "Xuroson, Balujiston", "Mikron, Shirvon", "Mozandaron,Seyiston"],
     javob: 1,
-    izoh: ""
+    izoh: "Muhammad Xorazmshoh 1212-yili Eronning Kirmon viloyatini,Mikronni, soʻng Balujistoni egalladi"
   },
   {
     fan: "O'zbekiston tarixi",
