@@ -30,11 +30,11 @@
   },
   {
     fan: "O'zbekiston tarixi",
-    mavzu: "Namuna mavzu: Mirzo Ulug'bek",
-    savol: "Samarqandda mashhur rasadxonani kim qurdirgan?",
-    variantlar: ["Amir Temur", "Alisher Navoiy", "Mirzo Ulug'bek", "Bobur"],
-    javob: 2,
-    izoh: ""
+    mavzu",XIII asr boshlarida Xorazm davlatida siyosiy vaziyat ?"
+    savol: "?",Alouddin Muhammad nechanchi yili Gʻazna,Gʻur,Bomiyon yerlarini egalladi?
+    variantlar: ["1216", "1217", "1212", "1221"],
+    javob: 1,
+    izoh: "Alouddin Muhammad 1216-yilda Gʻazn,Gʻur va Bomiyon yerlarini oʻz davlatiga qoʻshib oladi"
   },
   {
     fan: "O'zbekiston tarixi",
